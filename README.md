@@ -19,4 +19,4 @@ npm run dev
 - Phải chạy dòng lệnh ở mục "Hướng dẫn sử dụng" trên trước khi sử dụng ứng dụng di động đọc truyện tranh
 - Sau khi chạy server thành công,lúc này có thể sử dụng các công cụ phát triển API như Postman,Insomnia để viết các giao thức HTTP
 ## Ứng dụng di động đọc truyện tranh: 
-- [ComicReader](https://github.com/taingo321/LTTBD_ComicReaderApp/blob/main/README.md)
+- [ComicReader](https://github.com/taingo321/LTTBD_ComicReaderApp.git)
