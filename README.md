@@ -9,5 +9,7 @@
 - [Mongoose](https://mongoosejs.com/)
 - [Node.js](https://nodejs.org/en)
 - [Express.js](https://expressjs.com/)
+## Lưu ý khi sử dụng API
+- Kết nối tài khoản và cơ sở dữ liệu trong MongoDB nếu chưa có hoặc muốn tùy chỉnh
 ## Ứng dụng di động đọc truyện tranh: 
 - [ComicReader](https://github.com/taingo321/LTTBD_ComicReaderApp/blob/main/README.md)
